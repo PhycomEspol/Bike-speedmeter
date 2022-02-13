@@ -1,5 +1,5 @@
 # Bike-speedometer
-Este es un proyecto que determina la velocidad de una bicicleta usando un interruptor.El interruptor devuelve el tiempo que tardó la bicicleta en hacer una rotación completa y luego dividimos el perímetro de la llanta de la bicicleta para ese tiempo, permitiéndonos saber la velocidad de la bicicleta.:grinning: 
+Este es un proyecto que determina la velocidad de una bicicleta usando un interruptor.El interruptor devuelve el tiempo que tardó la bicicleta en hacer una rotación completa y luego divide el perímetro de la llanta de la bicicleta para ese tiempo, permitiéndonos saber la velocidad de la bicicleta.:grinning: 
 
  ### Circuito Speedometer en TINKERCAD
  

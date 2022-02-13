@@ -2,22 +2,14 @@
 Este es un proyecto que determina la velocidad de una bicicleta usando un interruptor.El interruptor devuelve el tiempo que tardó la bicicleta en hacer una rotación completa y luego divide el perímetro de la llanta de la bicicleta para ese tiempo, permitiéndonos saber la velocidad de la bicicleta.:grinning: 
 
  ### Circuito Speedometer en TINKERCAD
- 
- 
- 
- 
- 
- 
- 
- 
- 
- ![foto circuitoTinkercad](Fotos/CircuitoSpeedometer.png)
- ![foto circuitoTinkercad](Fotos/circuitoRun.png)
- 
-Un arduino conectado a una pantalla LCD de 16x2 donde se mostrará la velocidad y la distancia recorrida.
+ Un arduino conectado a una pantalla LCD de 16x2 donde se mostrará la velocidad y la distancia recorrida.
 Mediante un botón simulamos la señal digital del sensor hall.
 Al mandar dos señales calculamos el tiempo entre ellas, en base a eso y usando el perímetro de la llanta de la bicicleta, establecemos la velocidad promedio  que tuvo durante todo ese giro, para así presentarla en pantalla.
 Por cada señal recibida por parte del botón aumenta la distancia recorrida en un perímetro.
+ 
+ ![foto circuitoTinkercad](Fotos/CircuitoSpeedometer.png)
+ ![foto circuitoTinkercad](Fotos/circuitoRun.png)
+
  
  ### Materiales para el circuito
 Componentes | Precio | Cantidad |

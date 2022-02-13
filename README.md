@@ -10,7 +10,7 @@ Este es un proyecto que determina la velocidad de una bicicleta usando un interr
  
  
  ![foto circuitoTinkercad](Fotos/CircuitoSpeedometer.png)
- ![foto circuitoTinkercad](Fotos/CircuitoRun.png)
+ ![foto circuitoTinkercad](Fotos/circuitoRun.png)
  
  ### Materiales para el circuito:
   Componentes | Precio | Cantidad |

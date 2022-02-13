@@ -30,5 +30,5 @@ Para este proyecto se realizo una simulación de como se vería la parte externa
 
 ### Consideraciones :wink:
 - Ya que utilizamos la funcion millis para calcular nuestra velocidad esta hace que los m/s en la pantalla al momento de presentar una velocidad inferior a 10 tenga una s demas, se necesitaba limpiar la pantalla cada tanto pero no pudimos hacerlo funcionar de esa manera.
--Se habia pensado que el proyecto sea resistencia al agua, que pueda medir pulsaciones y tambien que presente las calorías quemadas pero por limitaciones que no pudimos realizar el proyecto en fisico no se logro.
+- Se habia pensado que el proyecto sea resistencia al agua, que pueda medir pulsaciones y tambien que presente las calorías quemadas pero por limitaciones que no pudimos realizar el proyecto en fisico no se logro.
 

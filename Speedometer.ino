@@ -1,4 +1,3 @@
-// include the library code:
 #include <LiquidCrystal.h>
 
 #define RADIO_LLANTA 0.37
@@ -6,7 +5,6 @@
 
 #define BUTTON       8
 
-// initialize the library with the numbers of the interface pins
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
 double distancia{0};

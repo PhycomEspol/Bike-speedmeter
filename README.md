@@ -9,7 +9,8 @@ Este es un proyecto que determina la velocidad de una bicicleta usando un interr
  
  
  
- ![foto circuitoTinkercad](Pictures/CircuitoSpeedometer.png)
+ ![foto circuitoTinkercad](Fotos/CircuitoSpeedometer.png)
+ ![foto circuitoTinkercad](Fotos/CircuitoRun.png)
  
  ### Materiales para el circuito:
   Componentes | Precio | Cantidad |
@@ -22,3 +23,9 @@ Este es un proyecto que determina la velocidad de una bicicleta usando un interr
 | Resistencia de 220 ohmio | $1  | 1 |
 | LCD 16x2 | $6 | 1 |
 | Cables macho-macho | $0.10 | 10 |
+
+### Protipo
+Para este proyecto se realizo una simulación de como se vería la parte externa del velocimetro para la bicicleta en figma.Este prototipo posee un boton rojo para apagar y prender el dispositivo. La idea incial era presentar en la pantalla LCD solo la velocidad en km/h pero finalmente en el circuito se decidio presentar tanto la distancia en m y la velocidad en m/s. 
+
+![foto circuitoTinkercad](Fotos/prototipo.png)
+

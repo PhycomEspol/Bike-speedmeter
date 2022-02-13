@@ -14,11 +14,16 @@ Este es un proyecto que determina la velocidad de una bicicleta usando un interr
  ![foto circuitoTinkercad](Fotos/CircuitoSpeedometer.png)
  ![foto circuitoTinkercad](Fotos/circuitoRun.png)
  
+Un arduino conectado a una pantalla LCD de 16x2 donde se mostrará la velocidad y la distancia recorrida.
+Mediante un botón simulamos la señal digital del sensor hall.
+Al mandar dos señales calculamos el tiempo entre ellas, en base a eso y usando el perímetro de la llanta de la bicicleta, establecemos la velocidad promedio  que tuvo durante todo ese giro, para así presentarla en pantalla.
+Por cada señal recibida por parte del botón aumenta la distancia recorrida en un perímetro.
+ 
  ### Materiales para el circuito
 Componentes | Precio | Cantidad |
 | ------------- | ------------- | ------------- |
 | Arduino UNO R3  | $30 | 1 |
-| Boton pulsador  | $1  | 1 |
+| Sensor Hall y módulo  | $3  | 1 |
 | Breadboard Pequeña  | $3 | 1 |
 | Potenciometro  | $2  | 1 |
 | Resistencia de 10 ohmio | $1 | 1 |

@@ -15,7 +15,7 @@ Este es un proyecto que determina la velocidad de una bicicleta usando un interr
  ![foto circuitoTinkercad](Fotos/circuitoRun.png)
  
  ### Materiales para el circuito
-  ##### Componentes | ##### Precio | #####Cantidad |
+Componentes | Precio | Cantidad |
 | ------------- | ------------- | ------------- |
 | Arduino UNO R3  | $30 | 1 |
 | Boton pulsador  | $1  | 1 |
